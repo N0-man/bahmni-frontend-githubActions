@@ -1,0 +1,14 @@
+{
+  "name": "@bahmni/design-system",
+  "version": "1.0.0",
+  "description": "Bahmni Design System",
+  "main": "index.tsx",
+  "scripts": {
+    "typescript": "tsc"
+  },
+  "dependencies": {
+    "@carbon/icons-react": "^10.18.0",
+    "carbon-components": "^10.50.0",
+    "carbon-components-react": "^7.50.0"
+  }
+}
